@@ -1,2 +1,4 @@
-# freecodecamp-javascript
-Exercises of the freecodecamp javascript tutorials
+# freeCodeCamp-javascript
+Exercises of the freeCodeCamp javascript tutorials
+
+https://www.freecodecamp.org/learn/
